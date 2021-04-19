@@ -24,6 +24,7 @@ The results folder is created with models and results of the Phase 1, Phase 2 an
 
 
 ## Running test script
+Assuming results are written to a directory `results_1`, please run -
 ```
 python predict.py ./results_1/phase_3/model_cn_step10000 ./results_1/config.json ./datasets/mnist/test/341.jpeg ./result_images/test_run_2.jpeg
 ```
