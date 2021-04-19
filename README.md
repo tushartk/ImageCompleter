@@ -1,7 +1,7 @@
 # Image completer for MNIST
 GAN based MNIST image completer.
 
-Project built based off of the paper - http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf and the repo - https://github.com/otenim/GLCIC-PyTorch#how-to-train-with-custom-dataset-
+Project built based off of the paper - http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf and the repo - https://github.com/otenim/GLCIC-PyTorch
 
 ## Installing environment
 Install Anaconda or miniconda and run 
